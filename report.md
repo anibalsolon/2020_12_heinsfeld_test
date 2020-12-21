@@ -17,7 +17,7 @@ event: 'OHBM Brainhack 2020'
 
 # The title of your report. 
 # -------------------------
-title:  'An automagical report generator for BrainHack Proceedings'
+title:  'My test'
 
 # Please SET this url to your GitHub project repo!
 # ------------------------------------------------- 
